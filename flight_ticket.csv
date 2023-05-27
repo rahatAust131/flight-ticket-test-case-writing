@@ -1,0 +1,3920 @@
+"ID","Title","Automation Type","Created By","Created On","Expected Result","Preconditions","Priority","Section","Section Description","Steps","Steps","Steps (Expected Result)","Steps (Step)","Type","Updated By","Updated On"
+"C23","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 9:34 AM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 0
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : -2
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+An Error Message should be displayed","","The application page should display","Open the application","Functional","Rahat","5/22/2023 5:12 PM"
+"C207","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 5:01 PM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 499
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : 50
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+An Error message should be displayed","","The application page should display","Open the application","Functional","Rahat","5/22/2023 5:38 PM"
+"C224","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 5:14 PM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 499
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : -2
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+An Error message should be displayed","","The application page should display","Open the application","Functional","Rahat","5/22/2023 5:39 PM"
+"C295","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 5:40 PM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 499
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : 50
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+Total cost should be displayed : 100","","The application page should display","Open the application","Functional","Rahat","5/22/2023 5:41 PM"
+"C298","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 5:42 PM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 499
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : 51
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+An error message should be displayed","","The application page should display","Open the application","Functional","Shahadat","5/23/2023 9:23 AM"
+"C299","Calculate cost of the flight ticket based on only distance"," None","Rahat","5/22/2023 5:43 PM","","Distance must be less than 500 miles","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display2. Click on the input field for distance : 499
+Expected Result:
+The value should be stored into the application system3. Click on the input field for departure date : 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of seat class : Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage (kg) : 50
+Expected Result:
+The value should be stored into the application system6. Click on the """"Calculate Cost"""" button
+Expected Result:
+An error message should be displayed","","The application page should display","Open the application","Functional","Shahadat","5/23/2023 9:25 AM"
+"C25","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 9:34 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1275","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:55 AM"
+"C81","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:56 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1275","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:05 AM"
+"C100","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:01 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:17 PM"
+"C342","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1255","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:20 PM"
+"C343","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1280","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:21 PM"
+"C348","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:32 PM"
+"C344","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:23 PM"
+"C346","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1280","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:25 PM"
+"C349","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:32 PM"
+"C350","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:34 PM"
+"C351","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:35 PM"
+"C352","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1275.1","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:36 PM"
+"C353","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1300.1","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:37 PM"
+"C354","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:39 PM"
+"C355","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1275.1","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:40 PM"
+"C356","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:40 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1300.1","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:41 PM"
+"C357","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:41 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:42 PM"
+"C347","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 9:45 AM"
+"C358","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:44 PM"
+"C345","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:18 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1255","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:24 PM"
+"C359","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1290.08","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:45 PM"
+"C360","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1265.08","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:47 PM"
+"C361","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1265.08","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:48 PM"
+"C362","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1290.08","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:50 PM"
+"C363","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 10:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:51 PM"
+"C364","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:13 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1255.06","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:14 PM"
+"C365","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:14 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1280.06","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:15 PM"
+"C366","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:15 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : First
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 10:29 AM"
+"C99","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:01 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1290","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:16 PM"
+"C367","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:21 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1255.06","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:22 PM"
+"C368","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:21 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : 1280.06","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:25 PM"
+"C369","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:25 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 9:49 AM"
+"C370","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:26 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:27 PM"
+"C98","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1265","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:15 PM"
+"C371","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:27 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:28 PM"
+"C372","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:27 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 501
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 29 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 9:59 AM"
+"C373","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:30 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1325","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:32 PM"
+"C374","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:34 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1350","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:34 PM"
+"C375","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:35 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:36 PM"
+"C376","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:39 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1325","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:39 PM"
+"C377","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:39 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1350","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:40 PM"
+"C378","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:40 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:40 PM"
+"C379","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:42 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1305","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:48 PM"
+"C380","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:43 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1330","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:49 PM"
+"C381","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:44 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:47 PM"
+"C382","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:50 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1305","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:51 PM"
+"C383","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:51 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1330","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:52 PM"
+"C384","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:52 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:53 PM"
+"C385","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:53 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1285","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:53 PM"
+"C386","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:54 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1310","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:54 PM"
+"C387","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:54 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 89 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:55 PM"
+"C97","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:03 PM"
+"C388","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:56 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1285","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:56 PM"
+"C389","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:57 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1310","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:57 PM"
+"C390","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:57 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 90 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:58 PM"
+"C96","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 10:02 PM"
+"C391","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:58 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:59 PM"
+"C392","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:59 PM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:59 PM"
+"C393","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 12:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 1000
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 91 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 12:00 AM"
+"C476","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:20 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1325","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:27 AM"
+"C477","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:22 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1350","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:27 AM"
+"C95","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 3:17 PM"
+"C478","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:23 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:28 AM"
+"C480","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:23 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1325","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:28 AM"
+"C482","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:24 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1350","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:29 AM"
+"C483","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:25 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:29 AM"
+"C484","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:25 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1305","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:26 AM"
+"C488","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:30 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1330","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:30 AM"
+"C490","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 6:30 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 51
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : error","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 6:31 AM"
+"C528","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/23/2023 8:13 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 30 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Business
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1265","","The application page should display
+
+","Open the application","Functional","Shahadat","5/23/2023 8:14 AM"
+"C94","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1290","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:57 AM"
+"C93","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 8 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 49
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1265","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:55 AM"
+"C91","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 7 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1300","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:22 AM"
+"C90","calculate cost based on distance and departure date for flights between 500 and 1000 miles"," None","Shahadat","5/22/2023 11:00 AM","","flight cost","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should display
+
+2. Click on the input field for distance : 500
+
+Expected Result:
+The value should be stored into the application system
+
+3. Click on the input field for departure date : 6 days
+
+
+Expected Result:
+The value should be stored into the application system
+
+4. Click on the dropdown menu of seat class : Economy
+
+
+Expected Result:
+The value should be stored into the application system
+
+5. Click on the input field for extra baggage (kg) : 50
+
+
+Expected Result:
+The value should be stored into the application system
+
+6. Click on the """"Calculate Cost"""" button
+
+
+Expected Result:
+The cost value should be displayed : $1300","","The application page should display
+
+","Open the application","Functional","Shahadat","5/22/2023 11:00 AM"
+"C83","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 10:57 AM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:42 PM"
+"C84","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 10:58 AM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:44 PM"
+"C112","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 11:16 AM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2750.3","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:47 PM"
+"C116","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 11:16 AM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2800.3","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:47 PM"
+"C117","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 11:17 AM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:50 PM"
+"C188","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:49 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2750.3","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:52 PM"
+"C189","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:49 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2800.3","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:53 PM"
+"C190","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:49 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 4:59 PM"
+"C196","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:59 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:02 PM"
+"C197","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:59 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2750.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:03 PM"
+"C198","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 4:59 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:03 PM"
+"C200","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:05 PM"
+"C201","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2750.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:05 PM"
+"C202","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:06 PM"
+"C204","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:06 PM"
+"C205","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2750.25","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:06 PM"
+"C206","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:00 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:07 PM"
+"C211","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:08 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2650.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:09 PM"
+"C213","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:09 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:09 PM"
+"C214","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:09 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:10 PM"
+"C215","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:10 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2650.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:11 PM"
+"C216","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:11 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:12 PM"
+"C217","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:11 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:12 PM"
+"C218","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:13 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2650.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:13 PM"
+"C219","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:13 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2700.2","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:13 PM"
+"C220","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:13 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:13 PM"
+"C221","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:14 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:15 PM"
+"C222","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:14 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:15 PM"
+"C223","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:14 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Economy
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:15 PM"
+"C225","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:18 PM"
+"C226","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:18 PM"
+"C227","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3050.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:20 PM"
+"C228","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3100.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:21 PM"
+"C229","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:21 PM"
+"C230","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3050.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:21 PM"
+"C231","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3100.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:22 PM"
+"C232","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:22 PM"
+"C233","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2950.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:23 PM"
+"C234","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3000.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:24 PM"
+"C235","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:24 PM"
+"C236","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2950.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:24 PM"
+"C237","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3000.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:25 PM"
+"C238","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:25 PM"
+"C239","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2950.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:25 PM"
+"C240","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3000.5","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:26 PM"
+"C241","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:26 PM"
+"C242","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2850.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:28 PM"
+"C243","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2900.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:28 PM"
+"C244","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:29 PM"
+"C245","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2850.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:32 PM"
+"C246","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2900.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:32 PM"
+"C247","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:33 PM"
+"C248","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2850.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:33 PM"
+"C249","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 2900.4","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:33 PM"
+"C250","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:34 PM"
+"C251","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:34 PM"
+"C252","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:34 PM"
+"C253","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:17 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: Business
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:34 PM"
+"C264","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:38 PM"
+"C265","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 0
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:39 PM"
+"C266","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3350.9","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:40 PM"
+"C267","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3400.9","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:41 PM"
+"C268","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 6
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:42 PM"
+"C269","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3350.9","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:42 PM"
+"C270","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3400.9","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:42 PM"
+"C271","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 7
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:43 PM"
+"C272","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3200.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:44 PM"
+"C273","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3250.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:45 PM"
+"C274","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 8
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:45 PM"
+"C275","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3200.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:45 PM"
+"C276","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3250.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:46 PM"
+"C277","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 29
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:46 PM"
+"C278","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3200.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:46 PM"
+"C279","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3250.75","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:47 PM"
+"C280","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 30
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:47 PM"
+"C281","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3050.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:48 PM"
+"C282","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3100.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:49 PM"
+"C283","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 31
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:49 PM"
+"C284","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3050.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:58 PM"
+"C285","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3100.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:59 PM"
+"C286","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 89
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 5:59 PM"
+"C287","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3050.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:00 PM"
+"C288","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: 3100.6","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:00 PM"
+"C289","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 90
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:00 PM"
+"C290","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 49
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:01 PM"
+"C291","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 50
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:01 PM"
+"C292","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 5:38 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1001
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 91
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 51
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: invalid","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:01 PM"
+"C314","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 6:01 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: blank
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 1
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 1
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: Please fill all the fields.","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:03 PM"
+"C315","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 6:01 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: blank
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : 1
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: Please fill all the fields.","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:03 PM"
+"C316","Calculating Flight cost for Distance over 1000 miles"," None","Mariam Akter","5/22/2023 6:01 PM","","","Medium","Team 3 - Rahat","","1. Open the application
+Expected Result:
+The application page should be displayed2. Click on the input field for Distance [miles]: 1
+
+
+Expected Result:
+The value should be stored into the application system3. Click on the input field for Departure Date [days]: 1
+Expected Result:
+The value should be stored into the application system4. Click on the dropdown menu of Seat Class: First
+Expected Result:
+The value should be stored into the application system5. Click on the input field for extra baggage [kg] : blank
+Expected Result:
+The value should be stored into the application system6. Click on the 'Calculate Cost' button
+Expected Result:
+The cost value should be displayed [$]: Please fill all the fields.","","The application page should be displayed","Open the application","Functional","Mariam Akter","5/22/2023 6:04 PM"
